@@ -20,3 +20,6 @@ I am a 4th year Computer Science and Engineering student at UC Irvine. I enjoy l
 
 ### What I like to do for Fun
 I enjoy spending time with family and friends. I love outdoor activites like hiking, trying new restaurants, and playing sports. I also enjoy cooking, writing, watching movies and shows. 
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=prgoyal007)](https://github.com/prgoyal007/github-readme-stats)
