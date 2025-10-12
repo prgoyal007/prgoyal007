@@ -23,3 +23,5 @@ I enjoy spending time with family and friends. I love outdoor activites like hik
 
 
 <img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=prgoyal007"/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prgoyal007)](https://github.com/prgoyal007/github-readme-stats)
