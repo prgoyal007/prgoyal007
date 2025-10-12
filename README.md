@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I am Prabhav Goyal
 
 <!--
 **prgoyal007/prgoyal007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### About Me
+I am a 4th year Computer Science and Engineering student at UC Irvine. I enjoy learning about Computer Architecture, Hardware Acceleration, Deep Learning, and Programming Languages. 
+
+### What I like to do for Fun
+I enjoy spending time with family and friends. I love outdoor activites like hiking, trying new restaurants, and playing sports. I also enjoy cooking, writing, watching movies and shows. 
