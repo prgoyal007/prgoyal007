@@ -18,9 +18,10 @@ Here are some ideas to get you started:
 ### About Me
 I am a 4th year Computer Science and Engineering student at UC Irvine. I enjoy learning about Computer Architecture, Hardware Acceleration, Deep Learning, and Programming Languages. 
 
+<!--
 ![](https://raw.githubusercontent.com/prgoyal007/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/prgoyal007/github-stats-transparent/output/generated/languages.svg)
-
+-->
 
 <!--
 ### What I like to do for Fun
