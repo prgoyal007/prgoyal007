@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### About Me
-I am a first year MS student in Electrical and Computer Engineering at Carnegie Mellon University. I enjoy learning about Computer Architecture, ASIC Design, Hardware Acceleration, and Artificial Intelligence. 
+I currently pursuing my masters degree in Electrical and Computer Engineering at Carnegie Mellon University (CMU). I enjoy learning about Computer Architecture, ASIC Design, Hardware Acceleration, and Artificial Intelligence. 
 
 <!--
 ![](https://raw.githubusercontent.com/prgoyal007/github-stats-transparent/output/generated/overview.svg)
